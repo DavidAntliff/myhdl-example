@@ -1,0 +1,5 @@
+*.vcd
+*.vhd
+*.v
+__pycache__/
+
